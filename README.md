@@ -1,7 +1,7 @@
 # Hi, I'm Chris Nordrum. 👋
 ## A digital designer and front-end developer from Canada.
 
-- I'm working on my **Interactive Design Diploma at SAIT**
+- 🔭 I'm currently working on my **Interactive Design Diploma at SAIT**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Version Control**
 
 
