@@ -1,5 +1,9 @@
 # Hi there, I'm Chris Nordrum 👋
 
+- 🤔 I'm currently looking for Full-Stack Web Developer positions!
+- 🔭 I'm working on a Digital Wedding Invitation for my sister
+- ⚡ Fun fact: I love Pokémon, investing, and working on cars
+
 <!--
 **chrisnordrum/chrisnordrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
