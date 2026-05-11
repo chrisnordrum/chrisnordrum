@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me:
+
+[Portfolio website](https://chrisnordrum.com/)
+[![LinkedIn profile](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://www.linkedin.com/in/chris-nordrum/)
+[![Codepen profile](https://readmecodegen.vercel.app/api/social-icon?name=codepen)](https://codepen.io/chrisnordrum)
+[![Instagram profile](https://readmecodegen.vercel.app/api/social-icon?name=instagram)](https://www.instagram.com/chrishnordrum)
