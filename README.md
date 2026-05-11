@@ -21,3 +21,20 @@ Here are some ideas to get you started:
 [![LinkedIn profile](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://www.linkedin.com/in/chris-nordrum/)
 [![Codepen profile](https://readmecodegen.vercel.app/api/social-icon?name=codepen)](https://codepen.io/chrisnordrum)
 [![Instagram profile](https://readmecodegen.vercel.app/api/social-icon?name=instagram)](https://www.instagram.com/chrishnordrum)
+
+## Languages and Tools:
+
+![HTML5](https://readmecodegen.vercel.app/api/social-icon?name=html5)
+![CSS3](https://readmecodegen.vercel.app/api/social-icon?name=css3)
+![JavaScript](https://readmecodegen.vercel.app/api/social-icon?name=javascript)
+![React](https://readmecodegen.vercel.app/api/social-icon?name=react)
+![Node.js](https://readmecodegen.vercel.app/api/social-icon?name=nodejs)
+![Express](https://readmecodegen.vercel.app/api/social-icon?name=express)
+![PHP](https://readmecodegen.vercel.app/api/social-icon?name=php)
+![MySQL](https://readmecodegen.vercel.app/api/social-icon?name=mysql)
+![MongoDB](https://readmecodegen.vercel.app/api/social-icon?name=mongodb)
+![Firebase](https://readmecodegen.vercel.app/api/social-icon?name=firebase)
+![Docker](https://readmecodegen.vercel.app/api/social-icon?name=docker)
+![Figma](https://readmecodegen.vercel.app/api/social-icon?name=figma)
+![ZAP](https://readmecodegen.vercel.app/api/social-icon?name=zap)
+![GitHub](https://readmecodegen.vercel.app/api/social-icon?name=github)
