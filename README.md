@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img src="icon.png" alt="Portfolio website" width="40" height="40" />](https://chrisnordrum.com/)
+[<img src="icon.png" alt="Portfolio website" width="50" height="50" />](https://chrisnordrum.com/)
 [![LinkedIn profile](https://readmecodegen.vercel.app/api/social-icon?name=linkedin)](https://www.linkedin.com/in/chris-nordrum/)
 [![Codepen profile](https://readmecodegen.vercel.app/api/social-icon?name=codepen)](https://codepen.io/chrisnordrum)
 [![Instagram profile](https://readmecodegen.vercel.app/api/social-icon?name=instagram)](https://www.instagram.com/chrishnordrum)
