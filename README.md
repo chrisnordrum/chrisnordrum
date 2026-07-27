@@ -1,7 +1,7 @@
 # Hi there, I'm Chris Nordrum 👋
 
-- 🤔 I'm currently looking for Full-Stack Web Developer positions!
-- 🔭 I'm working on a Digital Wedding Invitation for my sister
+- 🤔 I'm currently looking for Software Developer/Engineer positions!
+- 🌱 I’m learning AI-assisted development w/ Claude Code
 - ⚡ Fun fact: I love Pokémon, investing, and working on cars
 
 <!--
