@@ -1,7 +1,7 @@
 # Hi there, I'm Chris Nordrum 👋
 
-- 🤔 I'm currently looking for Software Developer/Engineer positions!
-- 🌱 I’m learning AI-assisted development w/ Claude Code
+- 🔭 I’m currently working on a B2B dealer portal as a contract full-stack engineer
+- 🤔 I'm looking for Junior Software Developer/Engineer positions
 - ⚡ Fun fact: I love Pokémon, investing, and working on cars
 
 <!--
